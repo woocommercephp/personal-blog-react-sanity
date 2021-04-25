@@ -1,1 +1,1 @@
-personal blog using react + sanity
+personal blog using react + sanity + tailwind
